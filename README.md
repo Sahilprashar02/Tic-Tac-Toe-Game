@@ -9,6 +9,8 @@ A premium, interactive Tic Tac Toe game built with React and Vite.
 [![CSS3](https://img.shields.io/badge/CSS3-Styled-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-black?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-game-eight-sigma.vercel.app/)
+
 </div>
 
 ---
